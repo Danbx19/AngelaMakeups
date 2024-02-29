@@ -1,0 +1,68 @@
+/* Estilos CSS para el diseño básico */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2; /* Color lila de fondo */
+}
+
+header {
+    background-color: #ffffff; /* Color blanco */
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: #800080; /* Color lila oscuro */
+}
+
+nav {
+    background-color: #ffffff; /* Color blanco */
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #800080; /* Color lila oscuro */
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #ffffff; /* Color blanco */
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+section h2 {
+    color: #800080; /* Color lila oscuro */
+}
+
+footer {
+    background-color: #ffffff; /* Color blanco */
+    color: #800080; /* Color lila oscuro */
+    padding: 20px;
+    text-align: center;
+}
+.info {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-top: 10px;
+}
